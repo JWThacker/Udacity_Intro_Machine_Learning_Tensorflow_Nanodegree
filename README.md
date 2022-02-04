@@ -44,7 +44,7 @@ This repository contains some of the exercises and all projects necessary for me
 
 # Usage
 ```bash
-git clone 
+git clone https://github.com/JWThacker/Udacity_Intro_Machine_Learning_Tensorflow_Nanodegree.git
 cd intermediate_python
 ```
 ## License (MIT)
